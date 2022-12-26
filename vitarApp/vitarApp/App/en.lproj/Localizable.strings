@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  vitarApp
+
+  Created by Kerem Safa Dirican on 9.12.2022.
+  
+*/
+
+//Global
+"PLACEHOLDER_LABEL" = "";
+"NO_SCORE" = "-";
+"TBA_DATE" = "TBA";
+"UNKNOWN_DATE" = "TBA";
+"SAVE_TEXT" = "Save";
+"CANCEL_TEXT" = "Cancel";
+"ERROR_TITLE" = "Error";
+"OK_BUTTON" = "OK";
+"APP_NAME" = "Vitar";
+
+//Page Titles
+"POPULAR_GAMES" = "Popular Games";
+"SEARCH_PAGE" = "Search";
+"FAVORITES_PAGE" = "Favorites";
+"NOTES_PAGE" = "Notes";
+
+//Search Page
+"CAN_SEARCH_GAME" = "You can use the searchbar";
+"NO_RESULT" = "No Result";
+
+//Favorite Page
+"REMOVE_FAVORITE" = "Remove";
+"NO_FAVORITE" = "You don't have any Favorites";
+
+//Notes Page
+"DELETE_NOTE" = "Delete Note";
+"CONFIRM_DELETE_NOTE" = "DELETE";
+"PLACEHOLDER_NOTE_TITLE" = "Note Title";
+"PLACEHOLDER_NOTE" = "Enter your note here...";
+"SELECT_BUTTON_TEXT" = "Select Game";
+"ZERO_NOTE" = "You don't have any Note";
+
+//Error Messages
+"FETCH_ERROR" = "An error occurred while retrieving the data";
+
+//Notifications
+"MISS_USER_NOTIFICATION" = "We missed you.";
+"WILL_RELEASE_TODAY" = "releasing today.";
